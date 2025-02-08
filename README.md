@@ -1,6 +1,6 @@
 <!-- Add your profile image -->
 <p align="center">
-  <img src="https://your-profile-image-url.com" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://your-profile-image-url.com" width="1200" height="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Aryan (@thearyananushka)</h1>
