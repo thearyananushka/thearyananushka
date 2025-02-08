@@ -1,4 +1,4 @@
-👋 Hi, I’m Anushka Aryan (@thearyananushka)
+ <h1>Hi👋 , I’m Anushka Aryan (@thearyananushka)</h1>
 
 👀 I’m interested in full-stack development, building scalable web applications, and exploring new technologies.
 
