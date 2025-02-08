@@ -1,6 +1,6 @@
 <!-- Add your profile image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGqgyEd8FVVRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731929196904?e=1744243200&v=beta&t=50kr8_18WIogQlK_y3pp216p6V1-mAcG-tpX7WELz9c" width="1200" height="150" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGqgyEd8FVVRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731929196904?e=1744243200&v=beta&t=50kr8_18WIogQlK_y3pp216p6V1-mAcG-tpX7WELz9c" width="1200" height="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Aryan (@thearyananushka)</h1>
@@ -25,7 +25,7 @@
 ---
 
 ### **🌐 Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anushka-aryan-a314b81b5)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thearyananushka)  
 
 
