@@ -9,7 +9,7 @@
 
 🌱 Currently learning backend development while leveraging my frontend expertise in React, Next.js, and JavaScript to create seamless user experiences.  
 
-💞️ *Looking to collaborate on* exciting projects involving *React, Next.js, Node.js, Express.js, and MongoDB*. I enjoy *solving complex problems* and optimizing performance.  
+💞️ *Looking to collaborate on* exciting projects involving *React, Node.js, Express.js, and MongoDB*. I enjoy *solving complex problems* and optimizing performance.  
 
 💻 *Skills:*  
 ✔ **JavaScript** | ✔ **React** | ✔ **Next.js** | ✔ **Node.js** | ✔ **Express.js** | ✔ **MongoDB** | ✔ **REST APIs** | ✔ **Scalable System Design**  
