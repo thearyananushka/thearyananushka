@@ -1,25 +1,25 @@
 <!-- Add your profile image -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1134696790/photo/web-development.webp?a=1&b=1&s=612x612&w=0&k=20&c=yHJGH-42scBAlHD0wSxNMp0EiNpMvi443F8pUSC5MXA=" width="1200" height="150" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGqgyEd8FVVRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731929196904?e=1744243200&v=beta&t=50kr8_18WIogQlK_y3pp216p6V1-mAcG-tpX7WELz9c" width="1200" height="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Aryan (@thearyananushka)</h1>
 
-👀 **I’m interested in** full-stack development, building **scalable web applications**, and exploring **new technologies**.  
+  👀 I’m interested in full-stack development, building scalable web applications, and exploring new technologies.  
 
-🌱 **Currently learning** backend development while leveraging my **frontend expertise** in **React, Next.js, and JavaScript** to create **seamless user experiences**.  
+  🌱 Currently learning backend development while leveraging my frontend expertise in React, Next.js, and JavaScript to create seamless user experiences.  
 
-💞️ **Looking to collaborate on** exciting projects involving **React, Next.js, Node.js, Express.js, and MongoDB**. I enjoy **solving complex problems** and optimizing **performance**.  
+💞️ *Looking to collaborate on* exciting projects involving *React, Next.js, Node.js, Express.js, and MongoDB*. I enjoy *solving complex problems* and optimizing performance.  
 
-💻 **Skills:**  
+💻 *Skills:*  
 ✔ **JavaScript** | ✔ **React** | ✔ **Next.js** | ✔ **Node.js** | ✔ **Express.js** | ✔ **MongoDB** | ✔ **REST APIs** | ✔ **Scalable System Design**  
 
-📫 **How to reach me:**  
-✉️ **Email:** [thearyananushka@gmail.com](mailto:thearyananushka@gmail.com)  
+📫 *How to reach me:*  
+✉️ Email: [thearyananushka@gmail.com](mailto:thearyananushka@gmail.com)  
 
-😄 **Pronouns:** She/Her  
+😄 *Pronouns:* She/Her  
 
-⚡ **Fun fact:**  
+⚡ *Fun fact:*  
 🧩 **Debugging isn’t just fixing code—it’s like solving a puzzle, and I love a good challenge!** 😄  
 
 ---
@@ -32,25 +32,6 @@
  
  
  
- 
- 
- 
- <h1>Hi👋 , I’m Anushka Aryan (@thearyananushka)</h1>
-
-👀 I’m interested in full-stack development, building scalable web applications, and exploring new technologies.
-
-🌱 Currently learning backend development while leveraging my expertise in frontend technologies like React, Next.js, and JavaScript to create seamless user experiences.
-
-💞️ Looking to collaborate on exciting projects involving React, Next.js, Node.js, Express.js, and MongoDB. I enjoy solving complex problems and optimizing performance.
-
-💻 Skills: JavaScript, React, Next.js, Node.js, Express.js, MongoDB, REST APIs, and scalable system design.
-
-📫 How to reach me: thearyananushka@gmail.com
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact: Debugging isn’t just fixing code—it’s like solving a puzzle, and I love a good challenge! 😄
-
 <!---
 thearyananushka/thearyananushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
