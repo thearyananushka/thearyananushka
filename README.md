@@ -1,3 +1,40 @@
+<!-- Add your profile image -->
+<p align="center">
+  <img src="https://your-profile-image-url.com" width="150" height="150" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">Hi 👋, I'm Anushka Aryan (@thearyananushka)</h1>
+
+👀 **I’m interested in** full-stack development, building **scalable web applications**, and exploring **new technologies**.  
+
+🌱 **Currently learning** backend development while leveraging my **frontend expertise** in **React, Next.js, and JavaScript** to create **seamless user experiences**.  
+
+💞️ **Looking to collaborate on** exciting projects involving **React, Next.js, Node.js, Express.js, and MongoDB**. I enjoy **solving complex problems** and optimizing **performance**.  
+
+💻 **Skills:**  
+✔ **JavaScript** | ✔ **React** | ✔ **Next.js** | ✔ **Node.js** | ✔ **Express.js** | ✔ **MongoDB** | ✔ **REST APIs** | ✔ **Scalable System Design**  
+
+📫 **How to reach me:**  
+✉️ **Email:** [thearyananushka@gmail.com](mailto:thearyananushka@gmail.com)  
+
+😄 **Pronouns:** She/Her  
+
+⚡ **Fun fact:**  
+🧩 **Debugging isn’t just fixing code—it’s like solving a puzzle, and I love a good challenge!** 😄  
+
+---
+
+### **🌐 Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thearyananushka)  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
  <h1>Hi👋 , I’m Anushka Aryan (@thearyananushka)</h1>
 
 👀 I’m interested in full-stack development, building scalable web applications, and exploring new technologies.
