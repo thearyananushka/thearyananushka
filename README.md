@@ -44,7 +44,7 @@
 ---
 
 ### **🌐 Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anushka-aryan-a314b81b5)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anushka-aryan-a314b81b5)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thearyananushka)  
 
  
